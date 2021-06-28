@@ -1,6 +1,7 @@
 title: OldmanChe's blog
 author: OldmanChe
 email: 619418101@qq.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is my first blog, I'll record my study experience here.
 
